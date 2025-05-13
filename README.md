@@ -1,1 +1,1 @@
-# tasktrackr
+A simple full-stack Task Manager application built using React.js (frontend) and designed with custom CSS. This app helps users to manage tasks by allowing them to create, view, and delete tasks efficiently. It's ideal for interview assessments, personal use, or as a base project for extending with backend/database support later.
